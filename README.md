@@ -72,6 +72,6 @@ Enable CORS from the /register resource and then Deploy the API.
 
 <img width="1285" alt="Screenshot 2025-01-30 at 7 03 10 PM" src="https://github.com/user-attachments/assets/39ca9696-c83a-4b99-9377-0e5da203c880" />
 
-### Step 8: 
+
 
 
